@@ -5,6 +5,8 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 ## Installation
 Run npm i (to install your dependencies) , then run npm start (to start app)
+ https://corder25.github.io/EmployeeDirectory/.
+ https://dashboard.heroku.com/apps/intense-mountain-74073/deploy/heroku-git
 
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/69650837/111036043-dab3dc00-83e2-11eb-8a88-4670dbdb99d9.png)
